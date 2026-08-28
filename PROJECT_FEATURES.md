@@ -5,3 +5,4 @@
 - Student CGPA (float cgpa)
 - Student Department (char department[50])
 - Student Email (char email[100])
+- Student Phone (char phone[20])
