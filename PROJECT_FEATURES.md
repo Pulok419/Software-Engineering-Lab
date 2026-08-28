@@ -1,5 +1,5 @@
 # Implemented Features
-- Student ID (int id)
+- Student ID (int studentId)
 - Student Name (char name[100])
 - Student Age (int age)
 - Student CGPA (float cgpa)
