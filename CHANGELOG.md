@@ -16,3 +16,4 @@
 - Increased address capacity to 200.
 - Increased phone number capacity to 25.
 - Renamed id to studentId.
+- Renamed name to studentName.

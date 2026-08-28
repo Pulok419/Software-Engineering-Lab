@@ -1,6 +1,6 @@
 # Implemented Features
 - Student ID (int studentId)
-- Student Name (char name[100])
+- Student Name (char studentName[100])
 - Student Age (int age)
 - Student CGPA (float cgpa)
 - Student Department (char department[50])
