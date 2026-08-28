@@ -13,3 +13,4 @@
 - Added student credit hours.
 - Added student status.
 - Increased student name length to 100.
+- Increased address capacity to 200.
