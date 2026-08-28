@@ -4,3 +4,4 @@
 - Initial Student structure created.
 - Added student age.
 - Added student CGPA.
+- Added student department.
