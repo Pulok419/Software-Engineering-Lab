@@ -5,7 +5,7 @@
 - Student CGPA (float cgpa)
 - Student Department (char department[50])
 - Student Email (char email[100])
-- Student Phone (char phone[20])
+- Student Phone (char phone[25])
 - Student Address (char address[200])
 - Student Gender (char gender[10])
 - Student Semester (int semester)

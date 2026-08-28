@@ -14,3 +14,4 @@
 - Added student status.
 - Increased student name length to 100.
 - Increased address capacity to 200.
+- Increased phone number capacity to 25.
