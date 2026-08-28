@@ -4,3 +4,4 @@
 - Student Age (int age)
 - Student CGPA (float cgpa)
 - Student Department (char department[50])
+- Student Email (char email[100])
