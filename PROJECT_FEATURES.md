@@ -9,3 +9,4 @@
 - Student Address (char address[100])
 - Student Gender (char gender[10])
 - Student Semester (int semester)
+- Student Credit Hours (int creditHours)
