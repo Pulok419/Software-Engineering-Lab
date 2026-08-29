@@ -1,4 +1,6 @@
 # Implemented Features
+
+## Student Attributes
 - Student ID (int studentId)
 - Student Name (char studentName[100])
 - Student Age (int age)
